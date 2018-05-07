@@ -1,4 +1,4 @@
-# holman/ama
+# dkagrawal/ama
 
 A repository to ask [@dk_agrwal](https://twitter.com/dk_agrwal) anything. This repository is forked from [@holman](https://twitter.com/holman)'s ama which I discovered when I visited my friend's personal website. Since, this seemed like an easy way to let people ask me anything, I forked out this repo!
 
