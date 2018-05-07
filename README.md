@@ -1,8 +1,6 @@
 # holman/ama
 
-A repository to ask [@holman](https://twitter.com/holman) anything.
-
-I [worked at GitHub](http://zachholman.com/about) for five years and have [written](http://zachholman.com) and [spoken](http://zachholman.com/talks) a lot about building company culture, improving your development workflow, and really important shit like emoji. If you have a question you're interested in reading me tap out a response for, this is just the joint for you.
+A repository to ask [@dk_agrwal](https://twitter.com/dk_agrwal) anything. This repository is forked from [@holman](https://twitter.com/holman)'s ama which I discovered when I visited my friend's personal website. Since, this seemed like an easy way to let people ask me anything, I forked out this repo!
 
 ### Ask a question
 
@@ -25,7 +23,7 @@ into some of the older threads.
 ### Twitter
 
 If you have something quick and easy, just ping me on Twitter. 140 characters
-makes everyone more efficient. I'm [@holman](https://twitter.com/holman) on
+makes everyone more efficient. I'm [@dk_agrwal](https://twitter.com/dk_agrwal) on
 Twitter.
 
 ### Forking
